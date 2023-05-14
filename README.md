@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Native and Web Computing**
 
-- 💬 Ask me about **PHP laravel ,Vuejs**
+- 💬 Ask me about **PHP/laravel, Vuejs, Mysql, Docker **
 
 - 📫 How to reach me **khizar.sulehri.ks@gmail.com**
 
